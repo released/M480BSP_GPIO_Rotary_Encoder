@@ -3,7 +3,7 @@
 
 update @ 2023/07/25
 
-1. use PA.4 , PA.3 to driver rotary / encoder ( PIN A , PIN B)
+1. use PA.4 , PA.3 to drive rotary / encoder ( PIN A , PIN B)
 
 2. initial GPIO interrupt and debounce , refer to GPIO_Rotary_Encoder_Init
 
